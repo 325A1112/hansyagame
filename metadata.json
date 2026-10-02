@@ -1,0 +1,6 @@
+{
+  "name": "ReflexPulse - 反応速度測定ゲーム",
+  "description": "ランダムな合図に合わせて瞬時にタップ！視覚反応・聴覚反射・5連続トライアル・Go/No-Goテストで反射神経をミリ秒単位で精密測定するゲームアプリ。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
